@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+button {
+    height: 60px;
+    width: 60px;
+    margin: 5px;
+    font-size: 20px;
+    background: black;
+    color: white;
+}
+
+button:active {
+    background: rgb(0, 174, 255);
+}
+
+.middle{
+    margin-left: 30px;
+}
+
+.bottom {
+    margin-left: 60px;
+}
