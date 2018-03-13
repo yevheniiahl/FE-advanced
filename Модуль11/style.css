@@ -1,0 +1,27 @@
+.wrapper{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+button{
+    background-color: rgb(182, 212, 209);
+    text-align: center;
+    padding: 5px 10px;
+}
+.add,
+.remove,
+.update{
+    margin-top: 15px;
+}
+input{
+    line-height: 20px;
+}
+.list_name{
+    margin-top: 20px;
+}
+.remove input{
+    width: 524px;
+}
+.update button{
+    padding: 5px 15px;
+}
